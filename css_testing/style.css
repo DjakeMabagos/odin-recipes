@@ -1,0 +1,17 @@
+.subsection.header {
+  color: red;
+}
+
+.subsection#preview {
+  color: blue;
+}
+
+.sigma {
+    font-family: sans-serif, serif;
+    font-weight: bold;
+}
+
+img {
+    height: 20em;
+    width: auto;
+}
