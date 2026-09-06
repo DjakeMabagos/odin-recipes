@@ -1,1 +1,1 @@
-# odin-recipes
+this project is a cool project
